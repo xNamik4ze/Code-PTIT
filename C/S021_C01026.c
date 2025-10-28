@@ -1,4 +1,3 @@
-
 /*
 Viết chương trình kiểm tra một số nguyên dương có phải số nguyên tố hay không.
 */
