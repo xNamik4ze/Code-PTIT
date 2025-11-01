@@ -1,3 +1,7 @@
+/*
+Một số gọi là số chẵn đặc biệt nếu nó là số chẵn và tất cả các chữ số đều chẵn. Viết chương trình kiểm tra xem số đã cho có phải là số chẵn đặc biệt hay không.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
