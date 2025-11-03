@@ -1,3 +1,7 @@
+/*
+Cho số nguyên dương N. Nhiệm vụ của bạn là hãy xác định xem có bao nhiêu ước số của N chia hết cho 2?
+*/
+
 #include <stdio.h>
 
 int countOddDivisors(int n) {
