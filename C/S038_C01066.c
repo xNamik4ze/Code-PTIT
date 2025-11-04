@@ -8,9 +8,9 @@ Viết chương trình nhập vào ba số nguyên có trị tuyệt đối khô
 int main() {
     int a, b, c;
     scanf("%d %d %d", &a, &b, &c);
-    int min = abs(a);
-    if (abs(b) < min) min = abs(b);
-    if (abs(c) < min) min = abs(c);
-    printf("%d", min);
+    printf("%d", abs(a) < abs(b) 
+                ? (abs(a) < abs(c) ? abs(a) : abs(c)) 
+                : (abs(b) < abs(c) ? abs(b) : abs(c))
+    );
     return 0;
 }
