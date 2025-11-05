@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-int lcmFind(int a, int b) {
-    int A = a, B = b;
+long long lcmFind(int a, int b) {
+    long long A = a, B = b;
     while (b != 0) {
         int temp = b;
         b = a % b;
@@ -39,7 +39,7 @@ int main() {
         } else {
             int left, right;
             splitNumber(n, &left, &right, digits);
-            printf("%d\n", lcmFind(left, right));
+            printf("%lld\n", lcmFind(left, right));
         }
     }
     return 0;
