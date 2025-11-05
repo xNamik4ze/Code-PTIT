@@ -1,5 +1,5 @@
 /*
-Cho số tự nhiên N không quá 7 chữ số. Hãy in ra giá trị gấp đôi của N.
+Cho số tự nhiên N không quá 7 chữ số. Hãy in ra giá trị gấp đôi của N. 
 */
 
 #include <stdio.h>
