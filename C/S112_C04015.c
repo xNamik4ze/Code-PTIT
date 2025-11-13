@@ -11,7 +11,7 @@ int main() {
         scanf("%d", &n);
         int arr[103];
         int freq[MAX + 3] = {0};
-        bool printed[103] = {false};
+        bool printed[MAX + 3] = {false};
         for (int i = 0; i < n; i++) {
             scanf("%d", &arr[i]);
             freq[arr[i]]++;
