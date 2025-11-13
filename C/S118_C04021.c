@@ -7,12 +7,12 @@ int main() {
     for (int i = 0; i < n; i++) scanf("%d", &a[i]);
     scanf("%d", &m);
 
-    for (int i = 0; i < m; i++) {
+    for (int i = 0; i < n - m; i++) {
         a[n + i] = a[i];
     }
 
     for (int i = 0; i < n; i++) {
-        a[i] = a[i + m];
+        a[i] = a[i + n - m];
     }
 
     for (int i = 0; i < n; i++) {
