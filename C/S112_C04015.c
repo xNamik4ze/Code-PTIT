@@ -17,7 +17,7 @@ int main() {
             freq[arr[i]]++;
         }
 
-        printf("Test %d:\n", &j);
+        printf("Test %d:\n", j);
         for (int i = 0; i < n; i++) {
             if (!printed[arr[i]]) {
                 printf("%d xuat hien %d lan", arr[i], freq[arr[i]]);
