@@ -1,3 +1,8 @@
+/*
+Viết chương trình nhập vào n là cạnh của hình vuông và in ra hình vuông các ký tự *.
+Giá trị n không quá 100. 
+*/
+
 #include <stdio.h>
 
 int main() {
