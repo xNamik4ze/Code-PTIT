@@ -1,3 +1,7 @@
+/*
+Viết chương trình tính ước số chung lớn nhất của 2 số nguyên dương (không quá 6 chữ số).
+*/
+
 #include <stdio.h>
 
 int gcd(int a, int b) {
