@@ -1,3 +1,8 @@
+/*
+Số Strong là số thỏa mãn có tổng giai thừa các chữ số của nó bằng chính nó. Ví dụ: 145 = 1! + 4! + 5!
+Viết chương trình nhập vào số n không quá 6 chữ số và kiểm tra xem n có phải số Strong hay không. Nếu đúng in ra 1 sai in ra 0.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
