@@ -1,3 +1,8 @@
+/*
+Nhập vào kích thước chiều rộng, chiều cao và in ra hình chữ nhật các dấu * nhưng rỗng bên trong. Các dấu * được in sát cạnh nhau.
+Dữ liệu vào chỉ có 2 số nguyên dương là chiều rộng và chiều cao (không quá 40).
+*/
+
 #include <stdio.h>
 
 int main() {
