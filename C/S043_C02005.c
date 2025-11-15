@@ -1,3 +1,7 @@
+/*
+Viết chương trình nhập vào số hàng và cột của hình bình hành (không quá 100). Thực hiện in ra hình bình hành ngược theo mẫu trong ví dụ.
+*/
+
 #include <stdio.h>
 
 int main() {
