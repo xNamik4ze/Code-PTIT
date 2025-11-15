@@ -1,3 +1,7 @@
+/*
+Viết chương trình nhập vào n (không quá 100) là độ dài cạnh hình bình hành. Thực hiện in ra hình bình hành rỗng tương ứng theo mẫu trong ví dụ.
+*/
+
 #include <stdio.h>
 
 int main() {
