@@ -1,3 +1,7 @@
+/*
+Viết chương trình nhập vào n (không quá 100) là cạnh của hình vuông và thực hiện in ra hình vuông rỗng các ký tự * theo mẫu trong ví dụ.
+*/
+
 #include <stdio.h>
 
 int main() {
