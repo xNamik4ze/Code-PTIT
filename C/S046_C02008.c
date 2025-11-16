@@ -1,3 +1,7 @@
+/*
+Viết chương trình nhập vào chiều cao của tam giác (không quá 100) và In ra tam giác hình sao rỗng tương ứng theo mẫu trong ví dụ.
+*/
+
 #include <stdio.h>
 
 int main() {
