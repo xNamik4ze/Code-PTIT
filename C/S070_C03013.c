@@ -1,3 +1,8 @@
+/*
+Nhập vào số nguyên dương n không quá 30.
+In ra màn hình n số đầu tiên thuộc dãy Fibonacci (tính từ số 0).
+*/
+
 #include <stdio.h>
 
 int main() {
