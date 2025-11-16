@@ -1,3 +1,7 @@
+/*
+Viết chương trình đếm xem trong đoạn [a,b] có bao nhiêu số là số nguyên tố và tất cả các chữ số của nó cũng là số nguyên tố.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
