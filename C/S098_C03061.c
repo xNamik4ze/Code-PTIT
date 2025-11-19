@@ -1,3 +1,9 @@
+/*
+Một số được coi là đẹp nếu chữ số đầu gấp đôi chữ số cuối hoặc ngược lại; đồng thời các chữ số  từ vị trí thứ 2 đến gần cuối thỏa mãn là một số thuận nghịch.
+Ví dụ: các số 36788766; 12345654322 là các số đẹp.
+Viết chương trình kiểm tra số đẹp theo tiêu chí trên.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
