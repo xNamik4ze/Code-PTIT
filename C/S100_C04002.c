@@ -1,3 +1,7 @@
+/*
+Viết chương trình in ra các số nguyên tố trong một dãy số cho trước.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -25,6 +29,7 @@ int main() {
         for (int i = 0; i < n; i++) {
             if (isPrime(arr[i])) printf("%d ", arr[i]);
         }
+        printf("\n");
     }
     return 0;
 }
