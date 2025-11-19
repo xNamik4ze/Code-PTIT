@@ -1,3 +1,9 @@
+/*
+Viết chương trình nhập vào mảng A có n phần tử số nguyên (2 < n < 100). 
+Tìm giá trị lớn nhất và lớn thứ hai trong mảng.
+Dữ liệu vào đảm bảo dãy có ít nhất 2 số khác nhau.
+*/
+
 #include <stdio.h>
 
 int main() {
