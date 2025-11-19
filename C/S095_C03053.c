@@ -1,3 +1,7 @@
+/*
+Cho số nguyên dương chẵn N>2. Hãy liệt kê các cặp số nguyên tố p, q có tổng đúng bằng N. Ví dụ N = 6 ta có 1 cặp số nguyên tố là 3 + 3 =6.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
