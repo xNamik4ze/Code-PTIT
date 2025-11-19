@@ -1,3 +1,8 @@
+/*
+Cho 2 đỉnh là góc dưới bên trái và góc trên bên phải của hình chữ nhật trong hệ tọa độ Oxy. 
+Hãy kiểm tra xem đó có phải là hình vuông hay không.
+*/
+
 #include <stdio.h>
 
 int main() {
