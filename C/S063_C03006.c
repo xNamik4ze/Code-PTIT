@@ -1,3 +1,7 @@
+/*
+Hãy phân tích một số nguyên dương thành tích các thừa số nguyên tố.   
+*/
+
 #include <stdio.h>
 
 int main() {
