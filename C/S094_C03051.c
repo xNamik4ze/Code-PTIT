@@ -1,3 +1,8 @@
+/*
+Cho hai số L, R. Nhiệm vụ của bạn là hãy đếm tất cả các số có đúng ba ước số trong khoảng [L, R]. 
+Ví dụ L =1, R =10, ta có kết quả là 2 vì chỉ có số 4 và 9 là có đúng 3 ước số.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
