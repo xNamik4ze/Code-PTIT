@@ -1,3 +1,7 @@
+/*
+Viết chương trình in ra các số chẵn trong một dãy số cho trước.
+*/
+
 #include <stdio.h>
 
 int main() {
@@ -14,6 +18,7 @@ int main() {
         for (int i = 0; i < n; i++) {
             if (arr[i] % 2 == 0) printf("%d ", arr[i]);
         }
+        printf("\n");
     }
     return 0;
 }
