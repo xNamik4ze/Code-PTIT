@@ -1,3 +1,7 @@
+/*
+Cho hai số nguyên dương n và k. Hãy kiểm tra xem giai thừa của n (n!) có chia hết cho 2k hay không.
+*/
+
 #include <stdio.h>
 
 int main() {
@@ -8,7 +12,7 @@ int main() {
         count += n / divide;
         divide *= 2;
     }
-    if (count >= k) printf("YES");
-    else printf("NO");
+    if (count >= k) printf("Yes");
+    else printf("No");
     return 0;
 }
