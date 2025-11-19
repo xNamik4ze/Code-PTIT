@@ -1,3 +1,8 @@
+/*
+Một số được gọi là số ưu thế chẵn nếu nó là số chẵn và số chữ số chẵn nhiều hơn số chữ số lẻ. 
+Hãy viết chương trình kiểm tra một số có phải ưu thế chẵn hay không.
+*/
+
 #include <stdio.h>
 
 int main() {
