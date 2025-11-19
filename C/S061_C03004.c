@@ -1,3 +1,7 @@
+/*
+Viết chương trình tìm ước số chung lớn nhất và bội số chung nhỏ nhất của hai số nguyên dương a,b.
+*/
+
 #include <stdio.h>
 
 int gcdFind(int a, int b) {
