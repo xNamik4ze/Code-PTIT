@@ -1,3 +1,8 @@
+/*
+Một số được gọi là số ưu thế lẽ nếu nó là số lẻ và số chữ số lẻ nhiều hơn số chữ số chẵn. 
+Hãy viết chương trình kiểm tra một số có phải ưu thế lẻ hay không.
+*/
+
 #include <stdio.h>
 
 int main() {
