@@ -1,3 +1,8 @@
+/*
+Viết chương trình nhập vào mảng A gồm n phần tử số nguyên (2 < n < 100). 
+Thực hiện loại bỏ các phần tử đã xuất hiện và In ra mảng kết quả.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
