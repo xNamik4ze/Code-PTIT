@@ -1,3 +1,8 @@
+/*
+Cho dãy số A[] gồm có N phần tử. Một phần tử được gọi là số đứng đầu nếu như nó lớn hơn tất cả các phần tử nằm bên phải của nó.
+Nhiệm vụ của bạn là hãy tìm các số đứng đầu trong dãy số A[] đã cho.
+*/
+
 #include <stdio.h>
 
 int main() {
