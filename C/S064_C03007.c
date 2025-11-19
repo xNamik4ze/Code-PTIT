@@ -1,3 +1,7 @@
+/*
+Viết chương trình liệt kê các số vừa nguyên tố, vừa thuận nghịch trong đoạn [a,b] với a,b là các số nguyên dương thỏa mãn 10<a<b<10^6.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 #define MAX 1000000
