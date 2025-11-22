@@ -1,3 +1,9 @@
+/*
+Một số nguyên dương được gọi là số thuận nghịch nếu viết theo chiều ngược lại vẫn có cùng giá trị với số ban đầu. 
+Ví dụ số 121 là số thuận nghịch, số 123 không phải số thuận nghịch.
+Viết chương trình kiểm tra số thuận nghịch
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
