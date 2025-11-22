@@ -1,3 +1,9 @@
+/*
+Viết chương trình nhập vào 2 số nguyên dương a và b không quá 6 chữ số. 
+Hãy so sánh và xếp lại theo thứ tự tăng dần tổng các chữ số.
+(Nếu a và b có tổng các chữ số bằng nhau thì in ra a trước)
+*/
+
 #include <stdio.h>
 
 int sumDigit(int n) {
