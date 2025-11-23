@@ -1,3 +1,8 @@
+/*
+Viết chương trình nhập vào một số n, không quá 18 chữ số.
+Hãy thực hiện đếm số lần xuất hiện của các chữ số nguyên tố trong n và in ra màn hình. (Liệt kê theo thứ tự xuất hiện các chữ số)
+*/
+
 #include <stdio.h>
 
 int main() {
