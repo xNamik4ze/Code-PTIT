@@ -1,3 +1,7 @@
+/*
+Cho hai cặp số (a,b) và (c,d). Hãy tính toán xem ước số chung lớn nhất của hai cặp số này có bằng nhau hay không.
+*/
+
 #include <stdio.h>
 
 int gcd(int a, int b) {
