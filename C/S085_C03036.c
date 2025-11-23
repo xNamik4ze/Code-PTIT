@@ -1,3 +1,10 @@
+/*
+Viết chương trình kiểm tra các số N thỏa mãn cả ba điều kiện:
+N là số thuận nghịch
+Tất cả các chữ số của N đều là số lẻ
+Tổng chữ số của N cũng là một số lẻ
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
