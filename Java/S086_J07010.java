@@ -1,3 +1,10 @@
+/* 
+Khai báo lớp Sinh Viên gồm các thông tin: Mã SV, Họ tên, Ngày sinh, Lớp và Điểm GPA (dạng số thực). 
+Đọc thông tin N sinh viên từ file văn bản SV.in (không có mã sinh viên) và in ra lần lượt màn hình mỗi dòng 1 sinh viên theo đúng thứ tự ban đầu. 
+Trong đó Mã SV được tự tạo ra theo quy tắc thêm mã B20DCCN sau đó là giá trị nguyên tự động tăng tính từ 001 (tối đa là 099). 
+Ngày sinh được chuẩn hóa về dạng dd/mm/yyyy
+*/
+
 import java.io.*;
 import java.text.DecimalFormat;
 import java.util.*;
