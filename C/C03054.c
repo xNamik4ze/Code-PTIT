@@ -7,7 +7,7 @@ Số 9 cắt đôi ra số 0
 Các số khác cắt đôi sẽ không hợp lệ.
 Cho một số nguyên dương không quá 18 chữ số. Hãy in ra kết quả “cắt đôi” của số đó.
 Nếu không hợp lệ thì ghi ra INVALID. Chú ý: nếu cắt đôi ra một dãy toàn 0 thì cũng được coi là không hợp lệ. Kết quả cắt đôi thì không tính chữ số 0 ở đầu.
-*/
+*/ 
 
 #include <stdio.h>
 #include <stdbool.h>
