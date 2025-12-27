@@ -1,3 +1,8 @@
+/*
+Viết chương trình cho phép nhập vào mảng A có n phần tử số nguyên (2 < n < 100). 
+Đếm các phần tử chỉ xuất hiện một lần và liệt kê.
+*/
+
 #include <stdio.h>
 
 int main() {
