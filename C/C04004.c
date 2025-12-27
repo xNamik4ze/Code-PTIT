@@ -1,3 +1,11 @@
+/*
+Dãy số Fibonacci được định nghĩa theo công thức như sau:
+F1 = 1
+F2 = 1
+Fn = Fn-1 + Fn-2 với n>2
+Viết chương trình tính số Fibonacci thứ n (với n không quá 92)
+*/
+
 #include <stdio.h>
 
 long long fib(int n) {
