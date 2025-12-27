@@ -1,3 +1,7 @@
+/*
+Viết chương trình tìm số lớn nhất trong một dãy số cho trước.
+*/
+
 #include <stdio.h>
 
 int main() {
