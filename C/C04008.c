@@ -1,3 +1,7 @@
+/*
+Nhập 2 mảng (a, N) và (b, M) và số nguyên p (0≤p<M<=N<100). Hãy chèn mảng b vào vị trí p của mảng a.
+*/
+
 #include <stdio.h>
 
 int main() {
