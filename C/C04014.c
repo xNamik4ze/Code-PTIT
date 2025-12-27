@@ -1,3 +1,8 @@
+/*
+Viết chương trình nhập vào mảng một chiều n phần tử (1 < n < 100) và thực hiện in ra các phần tử cùng số lần xuất hiện của chúng trong mảng. 
+Các phần tử liệt kê theo thứ tự xuất hiện.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
