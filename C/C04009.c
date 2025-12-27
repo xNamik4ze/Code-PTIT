@@ -1,3 +1,9 @@
+/*
+Viết chương trình nhập vào mảng A gồm n phần tử (1 < n < 100). 
+Các giá trị trong dãy không quá 1000. 
+Thực hiện tách mảng đã cho thành mảng các số chẵn và mảng các số lẻ.
+*/
+
 #include <stdio.h>
 
 int main() {
