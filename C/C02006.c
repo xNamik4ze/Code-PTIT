@@ -1,6 +1,6 @@
 /*
 Viết chương trình nhập vào hàng và cột của hình bình hành (không quá 100). Thực hiện in hình bình hành ngược và rỗng theo mẫu trong ví dụ.
-*/
+*/ 
 
 #include <stdio.h>
 
