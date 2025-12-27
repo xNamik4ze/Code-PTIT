@@ -1,3 +1,8 @@
+/*
+Cho một dãy số nguyên dương có n phần tử (2<=n<=50). 
+Hãy liệt kê số các phần tử trong dãy không nhỏ hơn các số đứng trước nó (tính cả phần tử đầu tiên).
+*/
+
 #include <stdio.h>
 
 int main() {
