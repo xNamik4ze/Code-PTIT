@@ -7,7 +7,7 @@ Cho số nguyên dương N không quá 9 chữ số. Hãy in ra giá trị thậ
 int main() {
     int t;
     scanf("%d", &t);
-    while (t-- > 0) {
+    while (t--) {
         int n;
         scanf("%d", &n);
         printf("%.15f\n", 1.0 / n);
