@@ -1,3 +1,8 @@
+/*
+Viết chương trình nhập vào mảng A gồm n phần tử (1 < n < 100). 
+Thực hiện đảo ngược mảng và in ra kết quả.
+*/
+
 #include <stdio.h>
  
 int main()  {
