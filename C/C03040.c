@@ -1,4 +1,19 @@
+/*
+Một số Smith là một số tự nhiên thỏa mãn tổng các chữ số của nó bằng với tổng các chữ số của các thừa số nguyên tố của nó.
+Nhiệm vụ của bạn là hãy xác định xem số nguyên N đã cho có là số Smith hay không?
+*/
+
 #include <stdio.h>
+
+int sumDigit(int n) {
+    int sum = 0;
+    while (n > 0) {
+        int temp = n % 10;
+        sum += temp;
+        n /= 10;
+    }
+    return sum;
+}
 
 int sumFactor(int n) {
     int sum = 0;
@@ -9,22 +24,12 @@ int sumFactor(int n) {
     
     for (int i = 3; i * i <= n; i += 2) {
         while (n % i == 0) {
-            sum += i;
+            sum += sumDigit(i);
             n /= i;
         }
     }
 
-    if (n > 1) sum += n;
-    return sum;
-}
-
-int sumDigit(int n) {
-    int sum = 0;
-    while (n > 0) {
-        int temp = n % 10;
-        sum += temp;
-        n /= 10;
-    }
+    if (n > 1) sum += sumDigit(n);
     return sum;
 }
 
