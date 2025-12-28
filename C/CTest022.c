@@ -1,3 +1,9 @@
+/*
+Cho số nguyên dương N không quá 18 chữ số. 
+Nếu số chữ số của N là chẵn thì ta có thể tách thành hai nửa trái và phải có số chữ số bằng nhau.
+Hãy tính bội số chung nhỏ nhất của hai nửa trái và phải của số N.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
