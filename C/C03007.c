@@ -9,8 +9,8 @@ Viết chương trình liệt kê các số vừa nguyên tố, vừa thuận ng
 bool prime[MAX + 1];
 
 void sieve() {
-    for (int i = 2; i <= MAX; i++)
-        prime[i] = true;
+    for (int i = 2; i <= MAX; i++) prime[i] = true;
+    prime[0] = prime[1] = false;
     for (int i = 2; i * i <= MAX; i++)
         if (prime[i])
             for (int j = i * i; j <= MAX; j += i)
