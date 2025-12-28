@@ -1,3 +1,8 @@
+/*
+Nhập vào kích thước hình vuông (không quá 9). 
+Vẽ hình vuông số theo nguyên tắc tương ứng theo mẫu trong ví  dụ dưới đây.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
