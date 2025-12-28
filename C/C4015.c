@@ -1,3 +1,8 @@
+/*
+Cho dãy số A có n phần tử chỉ bao gồm các số nguyên dương (không quá 10^5). 
+Hãy đếm xem mỗi số xuất hiện bao nhiêu lần.      
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
