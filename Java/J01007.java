@@ -4,7 +4,7 @@ Cho số nguyên dương n. Hãy kiểm tra xem n có phải là số trong dãy
 
 import java.util.*;
 
-public class S010_J01007 {
+public class J01007 {
     static long[] f = new long[93];
 
     public static boolean valid(long n) {
