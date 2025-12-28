@@ -1,3 +1,8 @@
+/*
+Viết chương trình nhập mảng n (1<n<100) phần tử số nguyên dương. Các giá trị trong mảng không quá 1000. 
+Đếm các phần tử là số nguyên tố trong mảng và in ra lần lượt theo thứ tự xuất hiện.
+*/
+
 #include <stdio.h>
 #include <stdbool.h>
 
