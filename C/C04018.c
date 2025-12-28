@@ -1,3 +1,7 @@
+/*
+Viết chương trình đếm các cặp số bằng nhau liên tiếp trong dãy số nguyên.
+*/
+
 #include <stdio.h>
 
 int main() {
