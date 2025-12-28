@@ -1,3 +1,7 @@
+/*
+Viết chương trình nhập vào mảng A gồm n phần tử (1 < n < 100). Thực hiện dịch n phần tử của mảng sang phải và In ra mảng kết quả
+*/
+
 #include <stdio.h>
 
 int main() {
