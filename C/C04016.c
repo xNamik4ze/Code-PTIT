@@ -1,6 +1,6 @@
 /*
-Viết chương trình nhập vào mảng một chiều n phần tử (1 < n < 100) và thực hiện in ra các phần tử cùng số lần xuất hiện của chúng trong mảng. 
-Các phần tử liệt kê theo thứ tự xuất hiện.
+Cho dãy số A có n phần tử chỉ bao gồm các số nguyên dương (không quá 104). 
+Hãy xác định các số nguyên tố trong dãy và đếm xem mỗi số xuất hiện bao nhiêu lần.      
 */
 
 #include <stdio.h>
