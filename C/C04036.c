@@ -1,3 +1,8 @@
+/*
+Tại ngân hàng có các mệnh giá bằng 1, 2, 5, 10, 20, 50, 100, 200, 500, 1000, số lượng tờ tiền mỗi mệnh giá là không hạn chế. Một người cần đổi số tiền có giá trị bằng N. 
+Hãy xác định xem số tờ tiền ít nhất sau khi đổi là bao nhiêu?
+*/
+
 #include <stdio.h>
 
 int main() {
