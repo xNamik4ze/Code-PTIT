@@ -6,7 +6,7 @@ Các chữ số cạnh nhau đều khác nhau đúng 2 đơn vị
 
 import java.util.Scanner;
 
-public class S020_J01018 {
+public class J01018 {
     public static boolean isValid(long n) {
         String N = String.valueOf(n);
         int result = 0;
