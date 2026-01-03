@@ -5,7 +5,7 @@ Hãy tính S = 1 + 2 + ... + N
 
 import java.util.Scanner;
 
-public class S005_J01002 {
+public class J01002 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
