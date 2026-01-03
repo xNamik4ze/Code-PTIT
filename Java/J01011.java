@@ -5,7 +5,7 @@ Tìm bội số chung nhỏ nhất và ước số chung lớn nhất của hai 
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class S014_J01011 {
+public class J01011 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
