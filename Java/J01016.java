@@ -4,7 +4,7 @@ Cho số nguyên dương N có không quá 18 chữ số. Hãy đếm xem số c
 
 import java.util.Scanner;
 
-public class S018_J01016 {
+public class J01016 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         String n = sc.next();
