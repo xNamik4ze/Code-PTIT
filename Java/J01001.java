@@ -5,7 +5,7 @@ Viết chương trình tính chu vi và diện tích của hình chữ nhật đ
 
 import java.util.Scanner;
 
-public class S004_J01001 {
+public class J01001 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
