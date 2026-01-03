@@ -5,7 +5,7 @@ Nhiệm vụ của bạn là hãy xác định xem có bao nhiêu ước số c�
 
 import java.util.Scanner;
 
-public class S015_J01012 {
+public class J01012 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
