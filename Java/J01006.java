@@ -8,7 +8,7 @@ Viết chương trình tính số Fibonacci thứ n (với n không quá 92)
 
 import java.util.Scanner;
 
-public class S009_J01006 {
+public class J01006 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
