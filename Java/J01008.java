@@ -4,7 +4,7 @@ Hãy phân tích một số nguyên dương thành tích các thừa số nguyê
 
 import java.util.Scanner;
 
-public class S011_J01008 {
+public class J01008 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
