@@ -6,7 +6,7 @@ Kết quả in ra YES nếu đó là số nguyên tố, in ra NO nếu ngược 
 
 import java.util.Scanner;
 
-public class S007_J01004 {
+public class J01004 {
     public static boolean isPrime(long n) {
         if (n < 2) return false;
         if (n == 2) return true;
