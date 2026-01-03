@@ -8,7 +8,7 @@ Nếu phương trình có nghiệm duy nhất thì in ra với định dạng lu
 
 import java.util.Scanner;
 
-public class S006_J01003 {
+public class J01003 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
 
