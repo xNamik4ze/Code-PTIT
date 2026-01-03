@@ -5,7 +5,7 @@ Ví dụ: số 123212 là số thỏa mãn, số 34578 không thỏa mãn.
 
 import java.util.Scanner;
 
-public class S019_J01017 {
+public class J01017 {
     public static boolean checkAdjacetDigit(long n) {
         String N = String.valueOf(n);
         for (int i = 0; i < N.length() - 1; i++) {
