@@ -6,7 +6,7 @@ Hãy in ra N-1 số là khoảng cách từ lát cắt thứ i tới đỉnh c�
 
 import java.util.Scanner;
 
-public class S008_J01005 {
+public class J01005 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
