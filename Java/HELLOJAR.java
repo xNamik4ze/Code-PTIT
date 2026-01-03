@@ -81,7 +81,7 @@ class PaymentController {
     }
 }
 
-public class S003_HELLOJAR {
+public class HELLOJAR {
     public static void main(String[] args) {
         PaymentController pc = new PaymentController();
         Invoice invoice = pc.getInvoice();
