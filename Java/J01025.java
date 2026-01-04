@@ -5,7 +5,7 @@ Cho 2 hình chữ nhật trên mặt phẳng Oxy.
 
 import java.util.*;
 
-public class S024_J01025 {
+public class J01025 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] a = new int[4];
