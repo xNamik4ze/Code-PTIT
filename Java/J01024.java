@@ -7,7 +7,7 @@ Nếu đúng in ra YES, nếu sai in ra NO.
 
 import java.util.Scanner;
 
-public class S023_J01024 {
+public class J01024 {
     public static boolean isValid(long n) {
         String N = String.valueOf(n);
         for (int i = 0; i < N.length(); i++) {
