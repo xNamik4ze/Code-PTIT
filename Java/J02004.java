@@ -6,7 +6,7 @@ Nếu đúng in ra YES, nếu sai in ra NO.
 
 import java.util.Scanner;
 
-public class S026_J02004 {
+public class J02004 {
     public static boolean isPalindrome(int[] arr, int n) {
         for (int i = 0; i < n / 2; i++) {
             if (arr[i] != arr[n - 1 - i]) return false;
