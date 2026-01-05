@@ -5,7 +5,7 @@ Dòng đầu của dữ liệu vào ghi số bộ test, mỗi bộ test là mộ
 
 import java.util.Scanner;
 
-public class S025_J01026 {
+public class J01026 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
