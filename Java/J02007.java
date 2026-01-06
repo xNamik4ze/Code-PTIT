@@ -5,7 +5,7 @@ Hãy đếm xem mỗi số xuất hiện bao nhiêu lần.
 
 import java.util.*;
 
-public class S029_J02007 {
+public class J02007 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
