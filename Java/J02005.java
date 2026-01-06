@@ -6,7 +6,7 @@ Hãy tìm tập giao của A và B.
 
 import java.util.*;
 
-public class S027_J02005 {
+public class J02005 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
