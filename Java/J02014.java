@@ -6,7 +6,7 @@ Nhiệm vụ của bạn là điểm cân bằng đầu tiên của dãy A[] cho
 
 import java.util.Scanner;
 
-public class S035_J02014 {
+public class J02014 {
     public static void main(String[] args) {
         Scanner sc = new java.util.Scanner(System.in);
         int t = sc.nextInt();
