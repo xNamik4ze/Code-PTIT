@@ -5,7 +5,7 @@ Nhiệm vụ của bạn là tìm số nguyên nhỏ nhất chia hết cho 1, 2,
 
 import java.util.Scanner;
 
-public class S030_J02008 {
+public class J02008 {
     public static boolean isPrime(int n) {
         if (n < 2) return false;
         if (n == 2) return true;
