@@ -5,7 +5,7 @@ Sử dụng thuật toán sinh kế tiếp hoặc quay lui, hãy liệt kê tấ
 
 import java.util.*;
 
-public class S038_J02021 {
+public class J02021 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
