@@ -7,7 +7,7 @@ Hãy tính xem cuối cùng dãy A[] còn bao nhiêu phần tử.
 
 import java.util.*;
 
-public class S036_J02017 {
+public class J02017 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
