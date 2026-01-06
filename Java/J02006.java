@@ -6,7 +6,7 @@ Hãy tìm hợp của A và B
 
 import java.util.*;
 
-public class S028_J02006 {
+public class J02006 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
