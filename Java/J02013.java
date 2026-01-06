@@ -6,7 +6,7 @@ Kết quả: Ghi ra màn hình từng bước thực hiện thuật toán. Mỗi
 
 import java.util.Scanner;
 
-public class S034_J02013 {
+public class J02013 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
