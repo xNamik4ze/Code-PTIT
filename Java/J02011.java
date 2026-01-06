@@ -4,7 +4,7 @@ Hãy thực hiện thuật toán sắp xếp chọn trên dãy N số nguyên. G
 
 import java.util.Scanner;
 
-public class S032_J02011 {
+public class J02011 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
