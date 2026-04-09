@@ -6,7 +6,7 @@ Hãy liệt kê các số khác nhau xuất hiện trong file và số lần xu�
 import java.io.File;
 import java.util.*;
 
-public class J07004 {
+public class S081_J07004 {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(new File("DATA.in"));
 
