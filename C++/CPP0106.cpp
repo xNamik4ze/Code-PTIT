@@ -3,14 +3,13 @@
 using namespace std;
 
 bool isPalindrome(long long n) {
-    long long origin = n;
-    long long reverse = 0;
-    while (n > 0) {
-        int digit = n % 10;
-        reverse = reverse * 10 + digit;
+    if (n % 10 == 0 && n != 0) return false;
+    long long reversed = 0;
+    while (n > reversed) {
+        reversed = reversed * 10 + n % 10;
         n /= 10;
     }
-    return origin == reverse;
+    return n == reversed || n == reversed / 10;
 }
 
 int main() {
